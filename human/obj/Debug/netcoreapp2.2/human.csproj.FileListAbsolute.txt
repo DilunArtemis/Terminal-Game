@@ -1,0 +1,35 @@
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\bin\Debug\netcoreapp2.2\human.deps.json
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\bin\Debug\netcoreapp2.2\human.runtimeconfig.json
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\bin\Debug\netcoreapp2.2\human.runtimeconfig.dev.json
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\bin\Debug\netcoreapp2.2\human.dll
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\bin\Debug\netcoreapp2.2\human.pdb
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\obj\Debug\netcoreapp2.2\human.csprojAssemblyReference.cache
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\obj\Debug\netcoreapp2.2\human.csproj.CoreCompileInputs.cache
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\obj\Debug\netcoreapp2.2\human.AssemblyInfoInputs.cache
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\obj\Debug\netcoreapp2.2\human.AssemblyInfo.cs
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\obj\Debug\netcoreapp2.2\human.dll
+C:\Users\Nolan\Documents\Coding_Dojo\c#\human\obj\Debug\netcoreapp2.2\human.pdb
+C:\Users\Livi\Desktop\NOM Studios\human\bin\Debug\netcoreapp2.2\human.deps.json
+C:\Users\Livi\Desktop\NOM Studios\human\bin\Debug\netcoreapp2.2\human.runtimeconfig.json
+C:\Users\Livi\Desktop\NOM Studios\human\bin\Debug\netcoreapp2.2\human.runtimeconfig.dev.json
+C:\Users\Livi\Desktop\NOM Studios\human\bin\Debug\netcoreapp2.2\human.dll
+C:\Users\Livi\Desktop\NOM Studios\human\bin\Debug\netcoreapp2.2\human.pdb
+C:\Users\Livi\Desktop\NOM Studios\human\obj\Debug\netcoreapp2.2\human.csprojAssemblyReference.cache
+C:\Users\Livi\Desktop\NOM Studios\human\obj\Debug\netcoreapp2.2\human.AssemblyInfoInputs.cache
+C:\Users\Livi\Desktop\NOM Studios\human\obj\Debug\netcoreapp2.2\human.AssemblyInfo.cs
+C:\Users\Livi\Desktop\NOM Studios\human\obj\Debug\netcoreapp2.2\human.csproj.CoreCompileInputs.cache
+C:\Users\Livi\Desktop\NOM Studios\human\obj\Debug\netcoreapp2.2\human.dll
+C:\Users\Livi\Desktop\NOM Studios\human\obj\Debug\netcoreapp2.2\human.pdb
+C:\Users\Livi\Desktop\NOM Studios\human\obj\Debug\netcoreapp2.2\human.genruntimeconfig.cache
+C:\Users\markg\Desktop\human\bin\Debug\netcoreapp2.2\human.deps.json
+C:\Users\markg\Desktop\human\bin\Debug\netcoreapp2.2\human.runtimeconfig.json
+C:\Users\markg\Desktop\human\bin\Debug\netcoreapp2.2\human.runtimeconfig.dev.json
+C:\Users\markg\Desktop\human\bin\Debug\netcoreapp2.2\human.dll
+C:\Users\markg\Desktop\human\bin\Debug\netcoreapp2.2\human.pdb
+C:\Users\markg\Desktop\human\obj\Debug\netcoreapp2.2\human.csprojAssemblyReference.cache
+C:\Users\markg\Desktop\human\obj\Debug\netcoreapp2.2\human.AssemblyInfoInputs.cache
+C:\Users\markg\Desktop\human\obj\Debug\netcoreapp2.2\human.AssemblyInfo.cs
+C:\Users\markg\Desktop\human\obj\Debug\netcoreapp2.2\human.csproj.CoreCompileInputs.cache
+C:\Users\markg\Desktop\human\obj\Debug\netcoreapp2.2\human.dll
+C:\Users\markg\Desktop\human\obj\Debug\netcoreapp2.2\human.pdb
+C:\Users\markg\Desktop\human\obj\Debug\netcoreapp2.2\human.genruntimeconfig.cache
